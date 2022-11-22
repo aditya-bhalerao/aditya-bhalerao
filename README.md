@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhalerao</h1>
-<h3 align="center">A computer engineering student from India</h3>
+<h3 align="center">A Computer Engineering student from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on Web Development, Data Science related projects.
