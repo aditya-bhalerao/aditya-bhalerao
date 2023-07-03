@@ -2,7 +2,7 @@
 🔭 I’m currently working on PDF Title Generator<br>👯 I’m looking to collaborate on Data Science, Machine Learning Projects<br>🌱 I’m currently learning Machine Learning<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhalerao-aditya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adityabha1erao) 
 
 # 💻 Tech Stack:
