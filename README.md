@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PDF Title Generator<br>👯 I’m looking to collaborate on Data Science, Machine Learning Projects<br>🌱 I’m currently learning Machine Learning<br>
+🔭 I’m currently working on Movie Recommendation System<br>👯 I’m looking to collaborate on Data Science, Machine Learning Projects<br>🌱 I’m currently learning Machine Learning<br>
 
 
 # 🌐 Socials:
