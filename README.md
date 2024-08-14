@@ -2,7 +2,7 @@
 
 SWE at [Geminus Tech](https://geminustech.com/)<br>
 
-- I use daily: `go-lang`, `.python`, `docker`
+- I use daily: `golang`, `.python`, `docker`
 - I’m currently working on:
 	- Developing backend for a system designed for companies involved in biochar production, and working towards carbon credit certification.
 	- Creating a payload application for a satellite intended for a space company.
