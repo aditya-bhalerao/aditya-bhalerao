@@ -1,8 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on:
-- Developing a backend for a full-stack application designed for companies involved in biochar production, and working towards certification in this field.
-- Creating a payload application for a satellite intended for a space company.<br>
+### Hello there 👋
 
-👯 I’m looking to collaborate on Golang projects.<br>
+SWE at [Geminus Tech](https://geminustech.com/)<br>
 
-🌱 I’m currently learning about designing systems.<br>
+- I use daily: `go-lang`, `.python`, `docker`
+- I’m currently working on:
+	- Developing backend for a system designed for companies involved in biochar production, and working towards carbon credit certification.
+	- Creating a payload application for a satellite intended for a space company.
+	- Contributing to [Antaris SatOS-Payload-SDK](https://github.com/antaris-inc/SatOS-Payload-SDK) <br>
+
+- I’m looking to collaborate on Golang projects. <br>
+- I’m currently learning about designing systems. <br>
