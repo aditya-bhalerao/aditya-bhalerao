@@ -9,3 +9,5 @@ SWE at [Geminus Tech](https://geminustech.com/)<br>
 
 - I’m looking to collaborate on Golang projects. <br>
 - I’m currently learning about Designing Systems, Linux Network Internals.<br>
+
+Feel free to reach out via email: [adityab7968@gmail.com] or connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bhalerao-aditya/)
